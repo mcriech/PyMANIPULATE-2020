@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
